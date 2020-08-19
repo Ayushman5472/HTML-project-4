@@ -1,0 +1,64 @@
+h1{
+    color:rgb(241, 153, 153);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Border: solid;
+    border-color: cadetblue;
+    text-align: center
+}
+
+h2{
+    color:#FF9933;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Border: solid;
+    border-color: cadetblue;
+}
+h3{
+    color:#AB6536;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Border: solid;
+    border-color: cadetblue;
+    text-align: left;
+}
+p{
+    font-family: 'Ink Free', Helvetica, sans-serif; 
+    text-align:left;
+    color:#FF58;
+}
+
+body{
+    background-size: cover;
+    background-image: linear-gradient(to bottom,#AB6536,#EE4)
+    
+}
+.aboutMe{
+    text-align: center;
+
+}
+.ThingsIMadeThatHelpMe{
+    text-align: center;
+    
+}
+.EasyOrigamiToTry{
+    text-align: center;
+}
+
+.Channels{
+    color: purple;
+    
+}
+.pic1:hover{
+   width: 200;
+   height:200;
+   opacity: 0.6;
+    }
+    .pic2:hover{
+        width:200;
+        height:200;
+        opacity: 0.6;
+        }
+        .pic3:hover{
+            width: 200;
+            height: 200;
+            opacity: 0.6;
+            }
+                        
